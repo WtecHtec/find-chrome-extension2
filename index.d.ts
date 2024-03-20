@@ -1,0 +1,1 @@
+declare function findChromeExtension(name: string, extId?: string): string | null;

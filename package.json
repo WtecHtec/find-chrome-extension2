@@ -1,0 +1,24 @@
+{
+  "name": "find-chrome-extension2",
+  "version": "1.0.0",
+  "description": "Finds a Google Chrome extension by name and id;(store an development)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WtecHtec/find-chrome-extension2.git"
+  },
+  "keywords": [
+    "Google",
+    "Chrome",
+    "Extension"
+  ],
+  "author": "r7 <wtechtec@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WtecHtec/find-chrome-extension2/issues"
+  },
+  "homepage": "https://github.com/WtecHtec/find-chrome-extension2#readme"
+}
